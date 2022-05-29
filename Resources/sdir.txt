@@ -1,0 +1,6 @@
+﻿replace this with your steamapps folders (the one with the .acf files in it) example:
+C:\Program Files (x86)\Steam\steamapps
+
+D:\SteamLibrary\steamapps
+
+anything in this file that does not lead to a steamapps folder will be ignored
